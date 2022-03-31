@@ -6,3 +6,4 @@ change the owner of file hello to user bety
 create empty file hello
 add execute permission to the owner
 multiple permissions
+cange everyone permission
