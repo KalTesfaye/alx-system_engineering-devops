@@ -3,3 +3,4 @@ script that switch the current user to user betty
 print the effective username of the current iser
 print all the groupsthe current user belongs to
 change the owner of file hello to user bety
+create empty file hello
